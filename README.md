@@ -24,9 +24,8 @@
 
 # Goals
 
-- Connecting and communicating components within the front end
-- Connecting and communicating components to the back end
-- Integrating back and front
+- Understand how to sign up and log in using React
+- Upload files from React - create virtual forms and send them through using Axios
 
 # Bonus
 
