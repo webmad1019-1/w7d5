@@ -16,7 +16,6 @@
 
 - Authentication
 - Express and file upload
-- Deployment - Maybe next week
 
 ## Activities
 
